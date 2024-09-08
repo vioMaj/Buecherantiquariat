@@ -21,31 +21,6 @@ Dieses Projekt ist eine Webanwendung für ein Bücherantiquariat. Die Website er
 
 ## Projektstruktur
 
-/Buecherantiquariat/
-├── Bilder/
-│   ├── books-1163695_1280.jpg
-│   ├── book-cover.svg
-│   ├── bookshelf.svg
-│   ├── delete.svg
-│   ├── edit.svg
-│   ├── heart.svg
-│   └── magnify.svg
-├── inc/
-│   ├── MontserratAlt1-Regular.woff
-│   ├── navigation.php
-│   ├── footer.php
-│   ├── inc.php
-├── style.css
-├── index.php
-├── kontakt.php
-├── benutzer.php
-├── buchdetail.php
-├── buecher.php
-├── login.php
-├── passwort.php
-├── kunden.php
-└── logout.php
-
 - index.php: Startseite der Anwendung.
 - kontakt.php: Kontaktseite mit Google Maps Integration.
 - benutzer.php: Adminseite zum hinzufügen neuer Benutzer/Admins.
